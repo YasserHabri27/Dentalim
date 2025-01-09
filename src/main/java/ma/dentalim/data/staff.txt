@@ -1,0 +1,4 @@
+ID|Nom|Prénom|Email|Téléphone|SalaireDeBase|StatusActuel
+1|Habri|Yasser|Yasser.habri@gmail.com|0123456789|3000.00|Actif
+2|Allali|Doha|Doha.Allali@gmail.com|0987654321|2500.00|EnConge
+3|Elmidaoui|Omar|Omar.Elmidaoui@gmail.com|1122334455|3500.00|Actif

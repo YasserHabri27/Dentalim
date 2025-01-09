@@ -1,0 +1,4 @@
+ID|Nom|Prénom|Email|NuméroTéléphone|DateNaissance|GroupeSanguin|Mutuelle|Profession
+1|Amine|Benani|Amine.Benani@gmail.com|0123456789|1990-01-01|O|Caisse_Enseignement|Développeur
+2|Allami|Imane|Allami.Imane@gmail.com|0987654321|1985-05-20|A|MGEN|null
+3|Elmidaoui|Adil|Adil.Elmidaoui@gmail.com|1122334455|1992-07-15|B|AMIP|Directeur

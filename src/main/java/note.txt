@@ -1,0 +1,3 @@
+##########################################################################
+(Yasser - 31/12/2024 - 13h32)
+-J'ai ajouter un dossier des exceptions pour traiter les exceptions du projet
