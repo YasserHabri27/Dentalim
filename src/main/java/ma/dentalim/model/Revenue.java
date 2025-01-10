@@ -1,6 +1,7 @@
 package ma.dentalim.model;
 
 import lombok.Data;
+import ma.dentalim.model.common.BaseEntity;
 
 @Data
 public class Revenue extends BaseEntity {

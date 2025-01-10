@@ -1,6 +1,6 @@
 package ma.dentalim.dao.implementation;
 
-import ma.dentalim.dao.api.IDAO;
+import ma.dentalim.dao.interfaces.IDAO;
 import ma.dentalim.model.Patient;
 
 import java.util.ArrayList;

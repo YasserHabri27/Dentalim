@@ -1,6 +1,7 @@
 package ma.dentalim.model;
 
 import lombok.Data;
+import ma.dentalim.model.common.BaseEntity;
 import ma.dentalim.model.enums.CategorieHistoriqueMedicale;
 
 import java.util.List;
